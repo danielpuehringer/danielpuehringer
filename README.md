@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Daniel and I'm a Master's Student at TU Wien. I'm a passionate nature lover🌳, socializer🥳, interrailer🚄, historian📔, and lover of the Austrian Coffee House culture☕.
+
+### Education
+I study [Software Engineering & Internet Computing](https://informatics.tuwien.ac.at/master/software-engineering-and-internet-computing/). I'm interested in building large Enterprise Software which faces challenges in terms of availability, scalability and security. However I'm not only interested in Software Engineering & Distributed Systems, but also into several aspects of Business Informatics and lately also Artificial Intelligence (mainly Machine Learning).
+
+Prior to my current Master's I finished my Bachelor's at [Hagenberg Campus](https://www.youtube.com/watch?v=m5AcemGh4fM&ab_channel=FHO%C3%96Hagenberg) (University of Applied Sciences Upper Austria) after which I worked in the area of website and web application development.
+
