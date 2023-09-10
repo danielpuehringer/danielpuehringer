@@ -30,12 +30,10 @@ Due to the COVID-Outbreak I adapted this plan and relocated to beautiful Vienna,
 
 ### 💡 My most recent personal projects:
 1. **Ridesharing platform / mobility service provider** (e.g. Uber, Deliveroo, UberEats, ...):<br/>
-Implemented data management, business logic, platform scalability of a sophisticated enterprise application using state-of-the-art technologies for distributed systems.
-
+Implemented data management, business logic, platform scalability of a sophisticated enterprise application using state-of-the-art technologies for distributed systems.<br/>
 **Technologies used:** _Java, JPA, Redis, MongoDB, SQL, Docker, RabbitMQ, ApacheFlink_
-2. Decentralized basic electronic mail service<br/>
-Implemented logic for multiple multithreaded servers to exchange encrypted E-Mail messages.
-
+2. **Decentralized basic electronic mail service**<br/>
+Implemented logic for multiple multithreaded servers to exchange encrypted E-Mail messages.<br/>
 **Technologies used:** _basic concepts of TCP and UDP socket communication, multithreaded applications (incl. Java Thread Pools), Encryption/Decryption via AES & RSA, Hashing (HMAC; SHA), Remote Procedure Calls (Java RMI)_
 
 ### 📫 How to reach me:
