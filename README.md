@@ -35,21 +35,13 @@ Waiting patiently for great opportunities to rise definately paid off!
 ### 💡 My most recent personal projects (ranked by relevance):
 1. **Cloud Native project with LocalStack and AWS CDK**<br/>
 Team project where we implemented a complex Infrastructure-as-Code architecture with the AWS CDK stack.<br/>
-**⭐ Technologies used:** _basic concepts of TCP and UDP socket communication, multithreaded applications (incl. Java Thread Pools), Encryption/Decryption via AES & RSA, Hashing (HMAC; SHA), Remote Procedure Calls (Java RMI)_<br/>
-**➡️ Detailed description for those interested:** [Show me the E-Mail service](https://dapinger.at/cv/projects/e-mail-servers/)<br/>
-2. **Decentralized basic electronic mail service**<br/>
-Implemented logic for multiple multithreaded servers to exchange encrypted E-Mail messages.<br/>
-**⭐ Technologies used:** _basic concepts of TCP and UDP socket communication, multithreaded applications (incl. Java Thread Pools), Encryption/Decryption via AES & RSA, Hashing (HMAC; SHA), Remote Procedure Calls (Java RMI)_<br/>
-**➡️ Detailed description for those interested:** [Show me the E-Mail service](https://dapinger.at/cv/projects/e-mail-servers/)<br/>
-3. **Decentralized basic electronic mail service**<br/>
-Implemented logic for multiple multithreaded servers to exchange encrypted E-Mail messages.<br/>
-**⭐ Technologies used:** _basic concepts of TCP and UDP socket communication, multithreaded applications (incl. Java Thread Pools), Encryption/Decryption via AES & RSA, Hashing (HMAC; SHA), Remote Procedure Calls (Java RMI)_<br/>
-**➡️ Detailed description for those interested:** [Show me the E-Mail service](https://dapinger.at/cv/projects/e-mail-servers/)<br/>
-4. **Ridesharing platform / mobility service provider** (e.g. Uber, Deliveroo, UberEats, ...):<br/>
+**⭐ Technologies used:** _various different AWS services such as DynamoDB to store data, Lambdas to glue everything together, Cognito for User Management, S3 to store files, API Gateway for routing_<br/>
+**➡️ Detailed description for those interested:** [Show me the Cloud Native App](https://dapinger.at/cv/projects/cloud-classroom/)<br/>
+2. **Ridesharing platform / mobility service provider** (e.g. Uber, Deliveroo, UberEats, ...):<br/>
 Implemented data management, business logic, platform scalability of a sophisticated enterprise application using state-of-the-art technologies for distributed systems.<br/>
 **⭐ Technologies used:** _Java, JPA, Redis, MongoDB, SQL, Docker, RabbitMQ, ApacheFlink_<br/>
 **➡️ Detailed description for those interested:** [Show me the ridesharing platform](https://dapinger.at/cv/projects/ridesharing-platform/)<br/>
-5. **Decentralized basic electronic mail service**<br/>
+3. **Decentralized basic electronic mail service**<br/>
 Implemented logic for multiple multithreaded servers to exchange encrypted E-Mail messages.<br/>
 **⭐ Technologies used:** _basic concepts of TCP and UDP socket communication, multithreaded applications (incl. Java Thread Pools), Encryption/Decryption via AES & RSA, Hashing (HMAC; SHA), Remote Procedure Calls (Java RMI)_<br/>
 **➡️ Detailed description for those interested:** [Show me the E-Mail service](https://dapinger.at/cv/projects/e-mail-servers/)<br/>
